@@ -1,0 +1,1 @@
+# postgresql-qa-suporte-queries
